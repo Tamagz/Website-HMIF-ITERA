@@ -206,8 +206,9 @@ a {
 }
 
 h1 {
-    text-align: center;
+    
     font-weight: bold;
+    text-align: center;
 }
 
 section.courses {
